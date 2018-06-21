@@ -1,0 +1,12 @@
+{
+  "name": "@ydv/logger",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "devDependencies": {
+    "proxyquire": "^2.0.1",
+    "standard": "^11.0.1",
+    "tape": "^4.9.1"
+  }
+}
