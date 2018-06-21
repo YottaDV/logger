@@ -1,6 +1,7 @@
 {
   "name": "@ydv/logger",
   "version": "1.0.1",
+  "repository": "yottadv/logger",
   "scripts": {
     "test": "standard && tape test.js"
   },
